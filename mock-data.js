@@ -23,7 +23,6 @@ var films = [
         id: 0, // Mongo ID
         name: 'Top Gun', // Display Name
         slug: 'top-gun', // Slug
-        writers: 'Jim Cash & Jack Epps Jr.',
         penDate: '1984-05', // date script becomes available
         startPrice: 500000,
         productionCost: 8000000, // production cost minus cost of talent?
